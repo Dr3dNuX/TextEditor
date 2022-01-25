@@ -24,7 +24,7 @@ type in exit to exit your file and the software
 
 you can also open and re edit files you have made or files you have.
 relaunch the software and use the 'open' option and enter your text file name.
-you dont need the .txt at the end the program automaticly oppends that to the end of your input string.
+you dont need the .txt at the end the program automatically appends that to the end of your input string.
 after you open the file you will be dropped into the edit prompt again and it will show the text that was in the file.
 
 ![openingtext](https://user-images.githubusercontent.com/84602650/149604859-e8ec3b01-41d4-4902-84b1-3273b847af9c.png)
